@@ -8,7 +8,7 @@
 }
 
 #poststuff .postbox-container {
-	width: 100%;
+	width: 80%;
 }
 
 #poststuff #post-body.columns-2 {
@@ -25,7 +25,7 @@
 
 #save-action .spinner,
 #show-comments a {
-	float: left;
+	float: right;
 }
 
 #show-comments .spinner {
@@ -49,6 +49,9 @@
 
 #titlediv div.inside {
 	margin: 0;
+	position: relative;
+	height: 1.7em;
+	width: 100%;
 }
 
 #poststuff #titlewrap {
