@@ -1,13 +1,13 @@
 <?php
 /*
-Plugin Name: Sumit
-Plugin URI: http://sumit.com/
-Description: use shortcode [sumit]
+Plugin Name: Isha
+Plugin URI: http://isha.com/
+Description: use shortcode [isha]
 Version: 3.1.10
-Author: Sumit Joshi
+Author: Isha Dhyani
 Author URI: http://xyz.com/
 License: GPLv2 or later
-Text Domain: sumit
+Text Domain: Isha
 */
 function des()
 {
