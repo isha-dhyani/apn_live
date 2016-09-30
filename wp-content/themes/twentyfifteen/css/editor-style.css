@@ -102,6 +102,13 @@ i {
 	font-style: italic;
 }
 
+header-main{
+font-size: 10px;
+	letter-spacing: 0.1em;
+	line-height: 1.2353;
+	text-transform: lowercase;	
+}
+
 blockquote {
 	border-left: 4px solid #707070;
 	color: #707070;
